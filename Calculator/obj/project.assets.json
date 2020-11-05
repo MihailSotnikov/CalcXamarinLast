@@ -1531,11 +1531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msotn\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\msotn\\Documents\\CalcXamarinLast\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\msotn\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\msotn\\Documents\\CalcXamarinLast\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\msotn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msotn\\source\\repos\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\msotn\\Documents\\CalcXamarinLast\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
